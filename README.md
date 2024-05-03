@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammad Hossein</h1>
+<h1 align="left">Hi 👋, I'm Mohammad Hossein</h1>
 I'm a Medical Physicist deeply passionate about integrating technology into healthcare to improve patient outcomes. I've recently ventured into the realms of programming and artificial intelligence with the goal of enhancing medical data analysis and driving innovation in patient care.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhosseinparsaei&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhosseinparsaei" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadhosseinparsaei" alt="mohammadhosseinparsaei" /></a> </p>
 
 <h3 align="left">🌱 Currently Immersed In</h3>
 I’m currently learning Deep learning with the PyTorch library
@@ -55,4 +52,6 @@ I'm eager to collaborate with like-minded individuals passionate about leveragin
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadhosseinparsaei&show_icons=true&theme=dark&locale=en" alt="mohammadhosseinparsaei" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinparsaei&layout=compact&theme=highcontrast&langs_count=6" alt="mohammadhosseinparsaei" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohammadhosseinparsaei&show_icons=true&theme=highcontrast&locale=en" alt="mohammadhosseinparsaei" /></p>
