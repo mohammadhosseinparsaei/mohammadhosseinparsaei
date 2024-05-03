@@ -53,7 +53,7 @@ I'm eager to collaborate with like-minded individuals passionate about leveragin
 </p>
 
 <div style="display: flex; align-items: flex-start;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammadhosseinparsaei&show_icons=true&theme=gruvbox&locale=en" alt="mohammadhosseinparsaei" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinparsaei&layout=compact&theme=gruvbox&langs_count=6" alt="mohammadhosseinparsaei" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammadhosseinparsaei&show_icons=true&theme=dracula&locale=en" alt="mohammadhosseinparsaei" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinparsaei&layout=compact&theme=dracula&langs_count=6" alt="mohammadhosseinparsaei" />
 </div>
 
