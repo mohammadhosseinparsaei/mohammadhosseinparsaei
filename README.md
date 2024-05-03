@@ -54,3 +54,5 @@ I'm eager to collaborate with like-minded individuals passionate about leveragin
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadhosseinparsaei&show_icons=true&theme=dark&locale=en" alt="mohammadhosseinparsaei" /></p>
