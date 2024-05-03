@@ -51,5 +51,3 @@ I'm a Medical Physicist deeply passionate about integrating technology into heal
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadhosseinparsaei&show_icons=true&locale=en" alt="mohammadhosseinparsaei" /></p>
