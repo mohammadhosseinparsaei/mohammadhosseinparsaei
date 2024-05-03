@@ -4,7 +4,10 @@ I'm a Medical Physicist deeply passionate about integrating technology into heal
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadhosseinparsaei" alt="mohammadhosseinparsaei" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning with the PyTorch library**
+- 🌱 Currently Immersed In
+- I’m currently learning **Deep learning with the PyTorch library**
+- 🤝 Let's Connect!
+- I'm eager to collaborate with like-minded individuals passionate about leveraging technology to revolutionize healthcare. Feel free to reach out, and let's make a positive impact together!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
