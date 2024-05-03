@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hossein</h1>
-- I'm a Medical Physicist deeply passionate about integrating technology into healthcare to improve patient outcomes. I've recently ventured into the realms of programming and artificial intelligence with the goal of enhancing medical data analysis and driving innovation in patient care.
+I'm a Medical Physicist deeply passionate about integrating technology into healthcare to improve patient outcomes. I've recently ventured into the realms of programming and artificial intelligence with the goal of enhancing medical data analysis and driving innovation in patient care.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhosseinparsaei&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhosseinparsaei" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadhosseinparsaei" alt="mohammadhosseinparsaei" /></a> </p>
