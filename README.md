@@ -52,6 +52,5 @@ I'm eager to collaborate with like-minded individuals passionate about leveragin
   </a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinparsaei&layout=compact&theme=highcontrast&langs_count=6" alt="mohammadhosseinparsaei" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohammadhosseinparsaei&show_icons=true&theme=highcontrast&locale=en" alt="mohammadhosseinparsaei" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammadhosseinparsaei&show_icons=true&theme=highcontrast&locale=en" alt="mohammadhosseinparsaei" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinparsaei&layout=compact&theme=highcontrast&langs_count=6" alt="mohammadhosseinparsaei" /></p>
