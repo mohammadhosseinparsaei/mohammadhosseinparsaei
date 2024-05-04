@@ -20,6 +20,9 @@ I'm eager to collaborate with like-minded individuals passionate about leveragin
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
   </a>
+    <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="spyder" width="40" height="40"/>
+  </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
