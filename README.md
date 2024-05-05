@@ -2,7 +2,7 @@
 I'm a Medical Physicist deeply passionate about integrating technology into healthcare to improve patient outcomes. I've recently ventured into the realms of programming and artificial intelligence with the goal of enhancing medical data analysis and driving innovation in patient care.
 
 <h3 align="left">🌱 Currently Immersed In</h3>
-I’m currently learning Deep learning with the **PyTorch** library
+I’m currently learning Deep learning with the PyTorch library
 <h3 align="left">🤝 Let's Connect!</h3>
 I'm eager to collaborate with like-minded individuals passionate about leveraging technology to revolutionize healthcare. Feel free to reach out, and let's make a positive impact together!
 
