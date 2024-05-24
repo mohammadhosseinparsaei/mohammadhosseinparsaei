@@ -6,7 +6,7 @@ I’m currently learning Deep learning with the PyTorch library
 <h3 align="left">🤝 Let's Connect!</h3>
 I'm eager to collaborate with like-minded individuals passionate about leveraging technology to revolutionize healthcare. Feel free to reach out, and let's make a positive impact together!
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left">💻 Tools and Libraries:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
