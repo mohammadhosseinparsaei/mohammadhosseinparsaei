@@ -7,17 +7,16 @@ I’m currently learning Deep learning with the PyTorch library
 I'm eager to collaborate with like-minded individuals passionate about leveraging technology to revolutionize healthcare. Feel free to reach out, and let's make a positive impact together!
 
 <h3 align="left">🎓 Certifications</h3>
-<p align="left">
+<div style="display: inline-block;">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V65KWPHNK935" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" width="40" height="40"/>
-    <span>Machine Learning Specialization</span>
+    <span style="vertical-align: middle;">Machine Learning Specialization</span>
   </a>
-</p>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Y73MHANVHVH6" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" width="40" height="40"/>
-    <span>Python For Everybody Specialization</span>
-  </a>
-</p>
+</div>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Y73MHANVHVH6" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" width="40" height="40"/>
+  <span style="vertical-align: middle;">Python For Everybody Specialization</span>
+</a>
 
 <h3 align="left">💻 Languages, Tools, and Libraries:</h3>
 <p align="left">
